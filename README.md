@@ -1,2 +1,2 @@
 # games
-i developing games
+im developing games
